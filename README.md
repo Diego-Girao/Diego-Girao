@@ -1,11 +1,9 @@
-- 👋 Hi, I’m @Diego-Girao a great professional in the IT support area, projects and infrastructure, in career transition to the development area, 
-      so every tips and comments are helpfull, a new Dev under construction !!!
-- 👀 I’m interested in { Front-End, Back-End, Fullstack(To the Future) and improving my skills as a developer }
-- 🌱 I’m currently learning { JavaScript, CSS, HTML, React, MariaDB, C#, Angular, Adonisjs, Docker, PHP, Nodejs }
-- 💞️ I’m looking to collaborate on a intern/junior development tasks.
-- 🧠 Learning english now.
+## 👋 What's up fellas, Diego Ramiro here 🤓 !
 
-## E aeeee galerinha! Eu sou o Diego Girão !!! 
+- 💻 I’m a FrontEnd Developer and passionate about technologies and how things work !!!
+- 🧠 Improving my english skills. 
+- 👀 I’m looking for a intern/junior job.
+ 
  <div>
   <a href="https://github.com/diego-girao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diego-girao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -25,9 +23,9 @@
   ##
  
 <div> 
-   	<a href="https://www.twitch.tv/diegoramiro25" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-   <a href = "mailto:diegoramiro25@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/diego-ramiro-santos-girão-1ab65bbb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://twitter.com/diegoramiro25" target="_blank"><img src="https://img.shields.io/badge/-twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
+   <a href = "mailto:diegoramiro25@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=color" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/diego-ramiro-santos-girão-1ab65bbb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
