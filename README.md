@@ -1,10 +1,10 @@
-<h1 align = center>
- 👋 Hi everyone, Diego Ramiro here  💻👀  !
-</h1>
-
 <h2 align = center>
-I was a Senior IT Analyst Support/Infra, but now i'm in transition to FrontEnd Developer !
+ 👋 Hi everyone, Diego Ramiro here  💻👀  !
 </h2>
+
+<h3 align = center>
+I was a Senior IT Analyst Support/Infra, but now i'm in transition to FrontEnd Developer !
+</h3>
 
 <div style="display: inline_block" align = center>
 <a href="https://twitter.com/diegoramiro25" target="_blank"><img align = center src="https://img.shields.io/badge/-twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
@@ -12,7 +12,7 @@ I was a Senior IT Analyst Support/Infra, but now i'm in transition to FrontEnd D
 <a href="https://www.linkedin.com/in/diego-ramiro-santos-girão-1ab65bbb" target="_blank"><img align = center src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div><br>
  
- <div style="display: inline_block" align = center>
+ <div>
   <a href="https://github.com/diego-girao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diego-girao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego-girao&layout=compact&langs_count=7&theme=dark"/>
