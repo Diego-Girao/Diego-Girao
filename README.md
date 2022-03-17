@@ -1,10 +1,13 @@
-<h2 align = "center">
- 👋 Hi everyone, Diego Ramiro here  💻👀  !
-</h2>
+## 👋 Hi everyone let me introduce myself !
 
-<h3 align = "center">
-I was a Senior IT Analyst Support/Infra, but now i'm in transition to FrontEnd Developer !
-</h3>
+<p>
+
+- I'm Diego, a System Analysis and Development student at @UniFatecie 💻👀  !
+- I was a Senior IT Analyst Support/Infra for the last 10 years ***and at the beginning January, 2021, I'm decided to become a FrontEnd Developer, this decision was changed my career and life for good !***
+ - I'm currently studing English, to improve my communication skills.
+ - I’m currently learning JavaScript, HTML, CSS, Typescript NodeJS, ReactJS, VueJS, Python, Java and more!
+ 
+</p>
 
 <div style="display: inline_block" align = "center">
 <a href="https://twitter.com/diegoramiro25" target="_blank"><img align = center src="https://img.shields.io/badge/-twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
