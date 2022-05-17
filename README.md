@@ -12,7 +12,7 @@
 <div style="display: inline_block" align = "center">
 <a href="https://twitter.com/diegoramiro25" target="_blank"><img align = center src="https://img.shields.io/badge/-twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
 <a href = "mailto:diegoramiro25@gmail.com"><img align = center src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=color" target="_blank"></a>
-<a href="https://www.linkedin.com/in/diego-ramiro-santos-girão-1ab65bbb" target="_blank"><img align = center src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/diego-girao" target="_blank"><img align = center src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div><br>
  
  <div align = "center">
