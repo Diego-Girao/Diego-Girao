@@ -1,14 +1,23 @@
-## 👋 Hi everyone let me introduce myself !
+## 👋 Hi there, nice to meet you !
 
-<p>
-
-- I'm Diego, a System Analysis and Development student at @UniFatecie 💻👀  !
-- I was a Senior IT Analyst Support/Infra for the last 10 years ***and at the beginning January, 2021, I'm decided to become a FrontEnd Developer, this decision was changed my career and life for good !***
- - I'm currently studing English, to improve my communication skills.
- - I’m currently learning JavaScript, HTML, CSS, Typescript NodeJS, ReactJS, VueJS, Python, Java and more!
+<div>
+ <a href="https://app.daily.dev/diegoramiro25"><img src="https://github.com/diego-girao/diego-girao/blob/master/devcard.svg" width="170" align="left" alt="Diego's Dev Card"/></a>
  
-</p>
-
+ <span>
+  
+      - I'm Diego, a System Analysis and Development student at @UniFatecie 💻👀  !
+      
+      - I was a Senior IT Analyst Support/Infra for the last 10 years and at the beginning January, 2021,
+        i decided to become a FrontEnd Developer, this decision was changed my career and life for good !
+      
+      - I'm currently studing English, to improve my communication skills.
+      
+      - I’m currently learning JavaScript, HTML, CSS, Typescript NodeJS, ReactJS, Python, Java and more!
+  
+  </span>
+ 
+</div>
+ 
 <div style="display: inline_block" align = "center">
 <a href="https://twitter.com/diegoramiro25" target="_blank"><img align = center src="https://img.shields.io/badge/-twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
 <a href = "mailto:diegoramiro25@gmail.com"><img align = center src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=color" target="_blank"></a>
