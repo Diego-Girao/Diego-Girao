@@ -1,16 +1,15 @@
-## 👋 Hi there, nice to meet you, my name is Diego and i'm a Frontend Developer !
+# 👋 Hi there, my name is Diego and a Frontend Developer !
 
 <div>
- <a href="https://app.daily.dev/diegoramiro25"><img src="https://github.com/diego-girao/diego-girao/blob/master/devcard.svg" width="170" align="left" alt="Diego's Dev Card"/></a>
- 
+ <a href="https://app.daily.dev/diegoramiro25"><img src="https://github.com/diego-girao/diego-girao/blob/master/devcard.svg" width="200" align="left" alt="Diego's Dev Card"/></a>
+ </div>
  <span>
         
-➡️ I was a Senior IT Analyst Support/Infra for the last 20 years and at the beginning January, 2021,
-i decided to become a Frontend Developer, this decision was changed my career and life for good !
+<strong>I was a Senior IT Analyst Support/Infra for the last 20 years and at the beginning January, 2021, i decided to become a Frontend Developer.</strong>
       
-➡️ I'm currently studing English, to improve my communication skills.
+<strong>🇺🇸 English: B1, and still studing to improve my communication skills.</strong>
       
-➡️ My Stacks 
+### Stacks 
 <img align="center" alt="Diego-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Diego-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 <img align="center" alt="Diego-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
@@ -19,7 +18,7 @@ i decided to become a Frontend Developer, this decision was changed my career an
 <img align="center" alt="Diego-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"> 
 <img align="center" alt="Diego-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> <img align="center" alt="Diego-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 
-➡️ Contacts:
+### Contacts:
 <a href="https://www.linkedin.com/in/diego-girao" target="_blank"><img align = center src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="85" target="_blank"></a> <a href = "mailto:diegoramiro25@gmail.com"><img align = center src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=color" width="75" target="_blank"></a> <a href="https://twitter.com/diegoramiro25" target="_blank"><img align = center src="https://img.shields.io/badge/-twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" width="80" target="_blank"></a>
  </span>
  
