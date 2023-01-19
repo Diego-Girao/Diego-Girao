@@ -22,7 +22,13 @@
 <a href="https://www.linkedin.com/in/diego-girao" target="_blank"><img align = center src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="85" target="_blank"></a> <a href = "mailto:diegoramiro25@gmail.com"><img align = center src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=color" width="75" target="_blank"></a> <a href="https://twitter.com/diegoramiro25" target="_blank"><img align = center src="https://img.shields.io/badge/-twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" width="80" target="_blank"></a>
  </span>
  
-</div>
+</div><br/>
+
+<div align="center">
+<a href="https://github.com/diego-girao">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=diego-girao&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego-girao&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+ </div >
 
 <!-- <br/>
 <br/>
@@ -37,15 +43,3 @@
 </div>
 
  -->
-
-
- 
-<!--  <div align = "center">
-  <a href="https://github.com/diego-girao">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=diego-girao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego-girao&layout=compact&langs_count=7&theme=dark"/>
-</div>  -->
- 
-<!-- <div style="display: inline_block" align = center >  
-<img align="center" alt="Diego-yoda" height="141" width="350" src="https://media.giphy.com/media/sk6yL9EGVeAcE/source.gif?cid=ecf05e473z14gy8f9cb336152l6u9mhowm98u3s9ramuerzm&rid=source.gif&ct=g">
-</div> -->
