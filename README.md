@@ -7,7 +7,7 @@
         
 <strong>I was a Senior IT Analyst Support/Infra for the last 20 years and at the beginning January, 2021, i decided to become a Frontend Developer.</strong>
       
-<strong>🇺🇸 English: B1, and still studing to improve my communication skills.</strong>
+<strong>🇺🇸 English: B2, and still studing to improve my communication skills.</strong>
       
 ### Stacks 
 <img align="center" alt="Diego-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
