@@ -5,7 +5,7 @@
  </div>
  <span>
         
-<strong>I was a Senior IT Analyst Support/Infra for the last 20 years and at the beginning January, 2021, i decided to become a Frontend Developer.</strong>
+<strong>As a Frontend Developer and a former Senior Analyst IT support/infra, I am passionate about technology and its entire environment. I have been curious since I was a child, and I enjoy and seek to understand how things work, whether it's a computer, a car, toys, and so on. In addition to wanting to know why they work in that way, I also wonder if they can be improved, replaced, or not. A simple "because it is" is not satisfying; I always strive to learn more.</strong>
       
 <strong>🇺🇸 English: B2, and still studing to improve my communication skills.</strong>
       
