@@ -8,7 +8,8 @@
 
 **As a Frontend Developer and a former Senior Analyst in IT support/infra, I am passionate about technology and its entire environment. Since I was a child, I've been curious and love to understand how things work, be it a computer, a car, toys, and more. I not only seek to understand why they work in that way but also wonder if they can be improved, replaced, or not. A simple "because it is" is not satisfying; I always strive to learn more.**
 
-**🇺🇸 English Level: B2 - Intermediate.**
+**Graduate: Analysis and Systems Development**<br>
+**English Level: B2 - Intermediate.**
 
 ## Contacts
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-girao)
